@@ -1,1 +1,0 @@
-HSILiteSegNet model structure
